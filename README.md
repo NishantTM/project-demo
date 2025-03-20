@@ -1,2 +1,3 @@
 # project-demo
-This is my first cv maker prjoject
+This is my first project for testing
+Author- Nishant singh
